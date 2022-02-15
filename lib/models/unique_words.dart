@@ -1,0 +1,1 @@
+typedef UniqueWords = Set<String>;
